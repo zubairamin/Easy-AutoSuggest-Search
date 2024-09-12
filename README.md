@@ -1,2 +1,2 @@
 # WP-AutoSuggest-Search
-WP AutoSuggest Search enhances the default WordPress search functionality by adding an auto-suggest feature with jQuery UI Autocomplete. 
+WP AutoSuggest Search enhances the default WordPress search functionality by adding an auto-suggest feature with jQuery UI Autocomplete. Users receive real-time search suggestions as they type, improving search efficiency and user experience. Configure the minimum number of characters for suggestions and the limit of results displayed via plugin settings. Under the <a href="https://www.ideafist.com">Ideafist</a> supervision I have tried to accomplish this task, but I will keep updating new versions as per advancements.
